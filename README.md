@@ -42,9 +42,9 @@ Features include:
 
 
 
-🔗 \*\*Repository:\*\* \[View Project](#)  
+🔗 \*\*Repository:\*\* \[View Project](https://github.com/DMX-RGIT/Personal-Portfolio-Website)  
 
-🔗 \*\*Live Demo:\*\* \[Coming Soon](#)  
+🔗 \*\*Live Demo:\*\* \[Coming Soon](https://dmx-rgit.github.io/Personal-Portfolio-Website/)  
 
 
 
